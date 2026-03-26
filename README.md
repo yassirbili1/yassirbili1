@@ -6,7 +6,9 @@
 <br>
 **• Training courses at [ALX Morocco](https://www.alxafrica.com)**
 <br>
-**• Graphic Designer & Motion Graphics Designer** *Building secure systems, Discord bots, and visual experiences.*
+**• Graphic Designer & Motion Graphics Designer**
+<br>
+*Building secure systems, Discord bots, and visual experiences.*
 
 ![Matrix code rain](https://r2.fivemanage.com/VAzIdicpOk8DZjeJtJFaX/download.gif)
 
