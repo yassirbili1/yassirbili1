@@ -44,9 +44,9 @@
 ### 📊 GitHub & 42 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassirbili1&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yassirbili1&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassirbili1&layout=compact&theme=chartreuse-dark" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yassirbili1&layout=compact&theme=chartreuse-dark" alt="Top Langs" height="150" />
 </p>
 
 ---
