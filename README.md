@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1BA43E&center=true&vCenter=true&width=435&lines=Hey%F0%9F%91%8B+I'm+Mohammed+Yasser+;%F0%9F%92%BBCybersecurity+Aspirant;%F0%9F%8E%A8Creative+Designer" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=1BA43E&center=true&vCenter=true&width=435&lines=Hey%F0%9F%91%8B+I'm+Mohammed+Yasser+;%F0%9F%92%BBCybersecurity+Aspirant;%F0%9F%8E%A8Creative+Designer" alt="Typing SVG" /></a>
 <br/>
 
 **• Cybersecurity Student at [42](https://42.fr/le-campus-de-paris/diplome-informatique/)**
